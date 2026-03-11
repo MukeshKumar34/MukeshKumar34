@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Currently working on**  <br>  Frontend & Full-Stack projects using **HTML, CSS, JavaScript, React**<br><br>- 👯 **Looking to collaborate on**  <br>  Open-source projects & beginner-friendly repos<br><br>- 🤝 **Looking for help with**  <br>  **Advanced React, Backend Development & System Design**<br><br>- 🌱 **Currently learning**  <br>  **MERN Stack, Git/GitHub, Data Structures & Algorithms**<br><br>- 💬 **Ask me about**  <br>  Web Development, Git, GitHub, JavaScript Basics<br><br>- ⚡ **Fun Fact**  <br>  Debugging feels like solving a mystery 🕵️‍♂️🧩
+🔭 **Currently working on**  <br>  Frontend & Full-Stack projects using **HTML, CSS, JavaScript, React**<br><br>- 👯 **Looking to collaborate on**  <br>  Open-source projects & beginner-friendly repos<br><br>- 🤝 **Looking for help with**  <br>  **Advanced React, Backend Development & System Design**<br><br>- 🌱 **Currently learning**  <br>  **MERN Stack, Git/GitHub, Data Structures & Algorithms**<br><br>- 💬 **Ask me about**  <br>  Web Development, Git, GitHub, JavaScript Basics<br><br>- ⚡ **Fun Fact**  <br>  Debugging feels like solving a mystery 🕵️‍♂️
 
 
 ## 🌐 Socials:
